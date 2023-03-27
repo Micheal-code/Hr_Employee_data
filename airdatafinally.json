@@ -1,0 +1,497 @@
+{
+  "name": "AirBnB",
+  "children": [
+ {
+   "Day Type": "Weekdays",
+   "children": [
+    {
+      "room_type": "Entire home",
+      "children": [
+        {
+          "Count of Index": 72,
+          "children": [
+            {
+              "person_capacity": 2,
+              "host_is_superhost": true,
+              "realSum": 30679}
+          ]
+
+ },
+ {
+          "Count of Index": 563,
+          "children": [
+            {
+              "person_capacity": 2,
+              "host_is_superhost": false,
+              "realSum": 222836}
+            ]
+ },
+ {
+          "Count of Index": 12,
+          "children": [
+            {
+              "person_capacity": 3,
+              "host_is_superhost": true,
+              "realSum": 20226}
+            ]
+ },
+ {
+          "Count of Index": 196,
+          "children": [
+            {
+              "person_capacity": 3,
+              "host_is_superhost": false,
+              "realSum": 82793}
+            ]
+ },
+ {
+          "Count of Index": 68,
+          "children": [
+             {
+               "person_capacity": 4,
+               "host_is_superhost": true,
+               "realSum": 49604}
+              ]
+ },
+ {
+          "Count of Index": 601,
+          "children": [
+            {
+              "person_capacity": 4,
+              "host_is_superhost": false,
+              "realSum": 336904}
+            ]
+ },
+ {
+          "Count of Index": 14,
+          "children": [
+            {
+              "person_capacity": 5,
+              "host_is_superhost": true,
+              "realSum": 10195}
+            ]
+ },
+ {
+          "Count of Index": 143,
+          "children": [
+            {
+              "person_capacity": 5,
+              "host_is_superhost": false,
+              "realSum": 91501}
+            ]
+ },
+ {
+          "Count of Index": 35,
+          "children": [
+            {
+              "person_capacity": 6,
+              "host_is_superhost": true,
+              "realSum": 29111}
+            ]
+  
+ },
+ {
+          "Count of Index": 262,
+          "children": [
+            {
+              "person_capacity": 6,
+              "host_is_superhost": false,
+              "realSum": 210495}
+            ]
+        }
+    ]
+  },
+ {
+      "room_type": "Private home",
+      "children": [
+        {
+          "Count of Index": 425,
+          "children": [
+            {
+              "person_capacity": 2,
+              "host_is_superhost": true,
+              "realSum": 85936}
+            ]
+ },
+ {
+          "Count of Index": 1817,
+          "children": [
+            {
+              "person_capacity": 2,
+              "host_is_superhost": false,
+              "realSum": 383104}
+            ]
+ },
+ {
+          "Count of Index": 25,
+          "children": [
+            {
+              "person_capacity": 3,
+              "host_is_superhost": true,
+              "realSum": 11761}
+            ]
+ },
+ {
+          "Count of Index": 169,
+          "children": [
+            {
+              "person_capacity": 3,
+              "host_is_superhost": false,
+              "realSum": 40371}
+            ]
+ },
+ {
+          "Count of Index": 21,
+          "children": [
+            {
+              "person_capacity": 4,
+              "host_is_superhost": true,
+              "realSum": 4973}
+            ]
+ },
+ {
+          "Count of Index": 130,
+          "children": [
+            {
+              "person_capacity": 4,
+              "host_is_superhost": false,
+              "realSum": 31412}
+            ]
+ },
+ {
+          "Count of Index": 2,
+          "children": [
+            {
+              "person_capacity": 4,
+              "host_is_superhost": true,
+              "realSum": 544}
+            ]
+ },
+ {
+          "Count of Index": 25,
+          "children": [
+            {
+              "person_capacity": 5,
+              "host_is_superhost": false,
+              "realSum": 10678}
+            ]
+ },
+ {
+          "Count of Index": 2,
+          "children": [
+            {
+              "person_capacity": 6,
+              "host_is_superhost": true,
+              "realSum": 440}
+            ]
+ },
+ {
+          "Count of Index": 9,
+          "children": [
+            {
+              "person_capacity": 6,
+              "host_is_superhost": false,
+              "realSum": 4388}
+            ]
+        }
+    ]
+ },
+ {
+      "room_type": "Shared room",
+      "children": [
+        {
+          "Count of Index": 2,
+          "children": [
+            {
+              "person_capacity": 2,
+              "host_is_superhost": true,
+              "realSum": 290}
+            ]
+ },
+ {
+          "Count of Index": 12,
+          "children": [
+            {
+              "person_capacity": 2,
+              "host_is_superhost": false,
+              "realSum": 2224}
+            ]
+ },
+ {
+          "Count of Index": 5,
+         "children": [
+           {
+             "person_capacity": 3,
+              "host_is_superhost": false,
+              "realSum": 788}
+            ]
+ },
+ {
+          "Count of Index": 2,
+          "children": [
+            {
+              "person_capacity": 4,
+              "host_is_superhost": false,
+              "realSum": 275}
+           ]
+ },
+ {
+          "Count of Index": 2,
+          "children": [
+            {
+              "person_capacity": 5,
+              "host_is_superhost": false,
+              "realSum": 596}
+            ]
+ },
+ {
+          "Count of Index": 112,
+          "children": [
+            {
+              "person_capacity": 2,
+              "host_is_superhost": true,
+              "realSum": 42657}
+            ]
+ },
+ {
+          "Count of Index": 672,
+          "children": [
+            {
+              "person_capacity": 2,
+              "host_is_superhost": false,
+              "realSum": 261451}
+            ]
+ },
+ {
+          "Count of Index": 23,
+          "children": [
+            {
+              "person_capacity": 2,
+              "host_is_superhost": true,
+              "realSum": 16196}
+            ]
+ },
+ {
+          "Count of Index": 231,
+          "children": [
+            {
+              "person_capacity": 3,
+              "host_is_superhost": false,
+              "realSum": 98298}
+            ]
+ },
+ {
+          "Count of Index": 100,
+          "children": [
+            {
+              "person_capacity": 4,
+              "host_is_superhost": true,
+              "realSum": 58534}
+            ]
+        }
+      ]
+    }
+   ]
+ },
+ {
+   "Day Type": "Weekends",
+   "children": [
+     {
+      "room_type": "Entire home",
+      "children": [
+        {
+          "Count of Index": 20,
+          "children": [
+            {
+              "person_capacity": 5,
+              "host_is_superhost": true,
+              "realSum": 11234}
+            ]
+ },
+ {
+          "Count of Index": 154,
+          "children": [
+            {
+              "person_capacity": 5,
+              "host_is_superhost": false,
+              "realSum": 100053}
+            ]
+ },
+ {
+          "Count of Index": 48,
+          "children": [
+            {
+              "person_capacity": 6,
+              "host_is_superhost": true,
+              "realSum": 47323}
+            ]
+ },
+ {
+          "Count of Index": 309,
+          "children": [
+            {
+              "person_capacity": 6,
+              "host_is_superhost": false,
+              "realSum": 253472}
+            ]
+ },
+ {
+          "Count of Index": 536,
+          "children": [
+            {
+              "person_capacity": 2,
+              "host_is_superhost": true,
+              "realSum": 107918}
+  ]
+ },
+ {
+          "Count of Index": 1979,
+          "children": [
+            {
+              "person_capacity": 2,
+              "host_is_superhost": false,
+              "realSum": 424627}
+            ]
+        }
+    ]
+    },
+ {
+      "room_type": "Private home",
+      "children": [
+        {
+          "Count of Index": 26,
+          "children": [
+            {
+              "person_capacity": 3,
+              "host_is_superhost": true,
+              "realSum": 10427}
+            ]
+ },
+ {
+          "Count of Index": 181,
+          "children": [
+            {
+              "person_capacity": 3,
+              "host_is_superhost": false,
+              "realSum": 44151}
+            ]
+ },
+ {
+          "Count of Index": 19,
+          "children": [
+            {
+              "person_capacity": 4,
+              "host_is_superhost": true,
+              "realSum": 4904}
+            ]
+ },
+ {
+          "Count of Index": 146,
+          "children": [
+            {
+              "person_capacity": 4,
+              "host_is_superhost": false,
+              "realSum": 38471}
+            ]
+ },
+ {
+          "Count of Index": 2,
+          "children": [
+            {
+              "person_capacity": 5,
+              "host_is_superhost": true,
+              "realSum": 586}
+            ]
+ },
+ {
+          "Count of Index": 29,
+          "children": [
+            {
+              "person_capacity": 5,
+              "host_is_superhost": false,
+              "realSum": 13492}
+            ]
+ },
+ {
+          "Count of Index": 5,
+          "children": [
+            {
+              "person_capacity": 6,
+              "host_is_superhost": true,
+              "realSum": 1484}
+            ]
+ },
+ {
+          "Count of Index": 11,
+          "children": [
+            {
+              "person_capacity": 6,
+              "host_is_superhost": false,
+              "realSum": 5563}
+            ]
+        }
+    ]
+ },
+ {
+      "room_type": "Shared room",
+      "children": [
+        {
+          "Count of Index": 4,
+          "children": [
+            {
+              "person_capacity": 2,
+              "host_is_superhost": true,
+              "realSum": 661}
+            ]
+ },
+ {
+          "Count of Index": 13,
+          "children": [
+            {
+              "person_capacity": 2,
+              "host_is_superhost": false,
+              "realSum": 2250}
+    ]
+ },
+ {
+          "Count of Index": 5,
+          "children": [
+            {
+              "person_capacity": 3,
+              "host_is_superhost": false,
+              "realSum": 825}
+            ]
+ },
+ {
+          "Count of Index": 2,
+          "children": [
+            {
+              "person_capacity": 4,
+              "host_is_superhost": true,
+              "realSum": 275}
+            ]
+ },
+ {
+          "Count of Index": 2,
+          "children": [
+            {
+              "person_capacity": 5,
+              "host_is_superhost": false,
+              "realSum": 607}
+            ]
+ },
+ {
+          "Count of Index": 1,
+          "children": [
+            {
+              "person_capacity": 6,
+              "host_is_superhost": false,
+              "realSum": 202}
+            ]
+          }
+        ]
+      }
+    ]
+    }
+  ]
+}
